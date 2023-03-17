@@ -1,0 +1,13 @@
+$backgroundColor: grey;
+
+html {
+  background-color: $backgroundColor;
+
+  ul {
+    list-style: none;
+  }
+
+  a {
+    color: green;
+  }
+}
